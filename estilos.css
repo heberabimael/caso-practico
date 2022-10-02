@@ -124,12 +124,7 @@ border-radius: 1em;
 
 /*aca  comienza los articulos y sus espacios definidos*/
 
-#{
-    text-align: justify;
-    grid-column: 1/2;
 
-
-}
 
 #articulo2{
     text-align: justify;
@@ -249,7 +244,7 @@ border-radius: 1em;
 }
 
 #div6 {
-    grid-column:;
+    grid-column:4/5;
     text-align: justify;
 
 }
